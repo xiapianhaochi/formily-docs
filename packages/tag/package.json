@@ -1,0 +1,35 @@
+{
+  "name": "@cool-design/pro-tag",
+  "version": "0.1.0",
+  "description": "@cool-design/pro-tag",
+  "keywords": [],
+  "author": "lebron0801 <zhulei0801@163.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "esm",
+    "dist"
+  ],
+  "peerDependencies": {
+    "antd": ">=4.20.0",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebron0801/pro-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lebron0801/pro-components/issues"
+  },
+  "homepage": "https://github.com/lebron0801/pro-components#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.16.3"
+  }
+}
