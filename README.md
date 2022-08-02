@@ -1,5 +1,5 @@
 English | [简体中文](./README.zh-CN.md)
 
-# ProComponents
+# Formily docs
 
-The Pro Series components are placed here to support heavy-duty components.
+This is `formily` docs.
